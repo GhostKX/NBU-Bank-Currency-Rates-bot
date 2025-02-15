@@ -47,7 +47,7 @@ A **Python-based Telegram bot** that provides real-time exchange rates and curre
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/NBU-Bank-Currency-Rates-bot.git
+git clone https://github.com/GhostKX/NBU-Bank-Currency-Rates-bot.git
 ```
 
 2. Install required dependencies

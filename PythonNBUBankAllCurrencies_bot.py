@@ -516,4 +516,5 @@ def from_GBP(message, user_id):
             bot.register_next_step_handler(message, from_GBP, user_id)
 
 
+# Running the bot infinitely
 bot.polling(non_stop=True)
